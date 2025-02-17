@@ -6,8 +6,10 @@
 # CHZZKTracker - 치지직 닉네임 필터 크롬 확장 프로그램
 
 네이버 치지직 스트리밍 채팅 중 특정 닉네임의 채팅만 따로 추적·표시해 주는 크롬 확장 프로그램입니다.
+<p>
+   <img src="image/chzzktrackerlogo.png" alt="치지직 로고" width="300">
+</p>
 
-<img src="image/chzzklogo.png" alt="치지직 로고" width="90">
 
 > **실사용**  
 > <img src="image/usage.png" alt="실사용" width="900">
@@ -74,4 +76,5 @@
    - 확장 프로그램 아이콘을 클릭했을 때 열리는 팝업 창입니다.  
    - 여기서 “채팅 걸러내기” 버튼을 누르면, `filtered.html`을 새로운 팝업 창으로 띄워 필터링된 채팅 내역을 확인할 수 있게 합니다.
 
-
+---
+해당 프로그램은 네이버 naver.com과 치지직 chzzk.naver.com과 아무 연관이 없습니다. 
