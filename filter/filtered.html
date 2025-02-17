@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>필터된 채팅</title>
+  <style>
+    /* 기존 채팅창과 유사하게 스타일 지정 (필요에 따라 조정) */
+    body {
+      font-family: -apple-system,BlinkMacSystemFont,Apple SD Gothic Neo,Helvetica,Arial,NanumGothic,나눔고딕,Malgun Gothic,맑은 고딕,Dotum,굴림,gulim,새굴림,noto sans,돋움,sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #141517;
+    }
+    #chatContainer {
+      max-height: 100vh;
+      overflow-y: auto;
+
+      padding: 10px;
+      box-sizing: border-box; 
+    }
+    .chat-message {
+      margin-bottom: 5px;
+      padding: 5px;
+      font-size: 14px;
+      color: #fff;
+    }
+    .nickname {
+      /* color: rgb(148, 201, 148); */
+      font-weight: bold;
+    }
+    .message {
+      margin-left: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div id="chatContainer"></div>
+  <script src="filtered.js"></script>
+</body>
+</html>
