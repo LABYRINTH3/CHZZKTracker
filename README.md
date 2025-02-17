@@ -10,7 +10,7 @@
 <img src="image/chzzklogo.png" alt="치지직 로고" width="90">
 
 > **실사용**  
-> 사진 추가 예정
+> <img src="image/usage.png" alt="실사용" width="900">
 
 ---
 
