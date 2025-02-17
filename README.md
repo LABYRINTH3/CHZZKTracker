@@ -1,12 +1,16 @@
-# CHZZKTracker
-# 치지직 닉네임 채팅 필터 크롬 확장 프로그램
+# CHZZKTracker - 치지직 닉네임 필터 크롬 확장 프로그램
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-Manifest%20V3-brightgreen?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
+
 
 네이버 치지직 스트리밍 채팅 중에서 특정 닉네임의 채팅만 따로 추적·표시해 주는 크롬 확장 프로그램입니다.
 
 <img src="image/chzzklogo.png" alt="치지직 로고" width="600">
 
 > **실사용**  
-> 
+> 사진 추가 예정
 
 ---
 
