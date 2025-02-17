@@ -5,7 +5,7 @@
 [![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-Manifest%20V3-brightgreen?logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
 
 
-네이버 치지직 스트리밍 채팅 중에서 특정 닉네임의 채팅만 따로 추적·표시해 주는 크롬 확장 프로그램입니다.
+네이버 치지직 스트리밍 채팅 중 특정 닉네임의 채팅만 따로 추적·표시해 주는 크롬 확장 프로그램입니다.
 
 <img src="image/chzzklogo.png" alt="치지직 로고" width="90">
 
