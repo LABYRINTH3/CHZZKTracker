@@ -7,7 +7,7 @@
 
 네이버 치지직 스트리밍 채팅 중 특정 닉네임의 채팅만 따로 추적·표시해 주는 크롬 확장 프로그램입니다.
 <p align='center'>
-   <img src="image/chzzktrackerlogo.png" alt="치지직 로고" width="300">
+   <img src="image/chzzktrackerlogo.png" alt="치지직 로고" width="100">
 </p>
 
 
@@ -29,7 +29,7 @@
 
 1. **필터할 닉네임 설정**  
    - 프로젝트 폴더 안에 있는 `content.js`(코드 파일)를 열어, 추적할 닉네임들을 설정합니다.
-   - <img src="image/setid.png" alt="닉네임 설정" width="900">
+     <img src="image/setid.png" alt="닉네임 설정" width="900">
 2. **치지직 페이지 접속**  
    - 치지직(네이버 스트리밍 사이트)에 접속 후, 채팅창이 보이는 상태를 유지합니다.
 3. **확장 프로그램 팝업 열기**  
