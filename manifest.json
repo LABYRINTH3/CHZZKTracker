@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "특정 닉네임 채팅 필터 (디버깅용)",
+  "name": "CHZZK Tracker",
   "version": "1.0.1",
-  "description": "치지직에서 특정 닉네임의 채팅 메시지만 별도의 창에 표시합니다. 디버깅 버전",
+  "description": "특정 닉네임의 채팅 메시지 추적",
 
   "permissions": ["scripting", "tabs", "alarms"],
 
